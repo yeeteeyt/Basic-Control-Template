@@ -1,0 +1,30 @@
+<basic code>
+(every 6 seconds)
+-check pressure
+-check valve pressure at checkpoints
+-adjust accordingly
+
+every 2 cycles
+-check oxygen level
+-check hydrogen level
+-purge/cycle excess gases from chamber
+
+<engine code>
+(~every 2 seconds[adjustable])
+-check gyroscope/path
+-adjust
+-check reserves
+-check again
+<emergency code>
+(code to activate this will be sent via diagnostics)
+-see emergency
+-see most efficient way to fix (either de-orbit or purge gases to reserves from engine reserve/from reserves to engine)
+-act
+-recheck both codes
+<abort>
+-seal valves to/from engine
+-purge engine reserve (to prevent loss of control from detatched stage/ prevent explosions)
+-seperate 
+-check alt
+-check pressure
+-deploy parachute/slowly purge capsule reserve (to prevent explosion)
