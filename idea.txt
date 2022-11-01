@@ -15,12 +15,14 @@ every 2 cycles
 -adjust
 -check reserves
 -check again
+
 <emergency code>
 (code to activate this will be sent via diagnostics)
 -see emergency
 -see most efficient way to fix (either de-orbit or purge gases to reserves from engine reserve/from reserves to engine)
 -act
 -recheck both codes
+
 <abort>
 -seal valves to/from engine
 -purge engine reserve (to prevent loss of control from detatched stage/ prevent explosions)
