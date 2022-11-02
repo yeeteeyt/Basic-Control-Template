@@ -8,4 +8,5 @@ We are expecting to test it this weekend
 <p>Main flight computer
 </p>
 How it works:
+
 ![Diagram-crop](https://user-images.githubusercontent.com/77510164/199534808-4a43f26a-ca47-4ced-8814-d8a11b76c20f.png)
